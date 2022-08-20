@@ -1,0 +1,26 @@
+body{
+    margin: unset;}
+.top-bar {
+    width: auto;
+    margin: 0%;
+    border: 0px;
+    text-align: center;}
+.heading{
+    margin: unset;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Work Sans', sans-serif;}
+.main-div {
+    height:98ex;
+    display: grid;
+    place-items: center;}
+.coin-div{
+    text-align: center;}
+.coin-button{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    border: 0ch;
+    padding: 0%;}
+#toss-text{
+    font-family: 'Work Sans', sans-serif;}
